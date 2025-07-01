@@ -77,7 +77,7 @@ The report contains key visualizations such as:
 
 ## Outcome
 
-This project demonstrates practical HR analytics using Power BI. It shows how data-driven insights can guide leadership toward more equitable and inclusive practices—critical for employer branding and sustainable growth.
+This project demonstrates practical HR analytics using Power BI. It shows how data-driven insights can guide leadership toward more equitable and inclusive practices critical for employer branding and sustainable growth.
 
 
 
